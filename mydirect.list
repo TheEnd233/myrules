@@ -5,3 +5,8 @@ DOMAIN-SUFFIX,mikanime.tv
 IP-CIDR,38.207.172.0/24,no-resolve
 IP-CIDR,81.71.13.0/24,no-resolve
 IP-CIDR,8.134.206.0/24,no-resolve
+
+# 局域网ip
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
